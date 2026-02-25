@@ -63,13 +63,9 @@ Bundle price: EUR 10/month for VPN + Storage.
 
 ## Phase 3: AI Tools Platform
 
-This is where it stops being "Finnish NordVPN" and becomes something new. 
+This is where it stops being "Finnish NordVPN" and becomes something new.
 
-- AI writing and document tools in Finnish (not Google Translate quality - actually good)
-- AI bookkeeping and invoicing for small businesses (~300K in Finland)
-- Finnish-language models fine-tuned on real Finnish usage
-
-Bundle price: unknown
+What AI tools to build: TBD. The key is that members decide what they need, and the cooperative builds it.
 
 Key insight: Each AI tool is built on the cooperative's own infrastructure. Data never leaves. Models improve because members use them. This is a flywheel that a US company cannot replicate for the Finnish market.
 
