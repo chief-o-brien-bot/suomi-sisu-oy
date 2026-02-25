@@ -67,15 +67,32 @@ This is where it stops being "Finnish NordVPN" and becomes something new.
 
 The VPN and storage aren't the product. They're the onboarding funnel. They get people into the cooperative, build trust, establish identity, create governance habits. The real play is: once you have 100K verified Finnish citizens in a democratic structure with shared infrastructure, you point AI at the question "how do we make money for our members?" — and you let it compound.
 
-### Collective Bargaining Through AI Agents
+### Explicit Long-Term Vision
+
+**AI Agents as Collective Negotiators**
 
 AI agents that negotiate collectively on behalf of members — energy contracts, insurance, telecom, subscriptions. 100,000 members negotiating as one entity through an AI broker is massive leverage. The savings alone could dwarf the membership fee.
 
-### Autonomous Digital Businesses
+Imagine: Instead of each member individually negotiating with their telecom provider, an AI agent representing 100,000 cooperative members walks into that negotiation. The power dynamic inverts completely. The same applies to energy, insurance, any service where collective bargaining creates leverage.
+
+**AI Agents as Autonomous Business Operators**
 
 AI agents that manage cooperative-owned digital businesses — apps, marketplaces, content, SaaS products — where the "founder" is the collective and the "employees" are autonomous agents.
 
+This isn't theoretical. We're already seeing AI capable of:
+- Building and deploying software
+- Managing customer support
+- Optimizing infrastructure
+- Creating content
+- Analyzing markets and making business decisions
+
+In a traditional startup, those capabilities create value for investors. In a cooperative, they create value for members. The "employees" are agents. The "equity" is membership shares. The profits flow to users, not VCs.
+
+### The Real Product is Coordination
+
 Key insight: Each AI tool is built on the cooperative's own infrastructure. Data never leaves. Models improve because members use them. This is a flywheel that a US company cannot replicate for the Finnish market.
+
+But more importantly: the VPN and storage establish the infrastructure for identity, governance, and trust. Once that's in place, the cooperative becomes a platform for coordinated economic action. The AI tools aren't add-ons — they're the nervous system of a new kind of economic entity.
 
 ## The AI & Singularity Angle
 
