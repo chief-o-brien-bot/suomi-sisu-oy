@@ -61,11 +61,19 @@ Success criteria: Reliable service, costs covered, first surplus distribution (e
 
 Bundle price: EUR 10/month for VPN + Storage.
 
-## Phase 3: AI Tools Platform
+## Phase 3: AI-Native Cooperative Economy
 
 This is where it stops being "Finnish NordVPN" and becomes something new.
 
-What AI tools to build: TBD. The key is that members decide what they need, and the cooperative builds it.
+The VPN and storage aren't the product. They're the onboarding funnel. They get people into the cooperative, build trust, establish identity, create governance habits. The real play is: once you have 100K verified Finnish citizens in a democratic structure with shared infrastructure, you point AI at the question "how do we make money for our members?" — and you let it compound.
+
+### Collective Bargaining Through AI Agents
+
+AI agents that negotiate collectively on behalf of members — energy contracts, insurance, telecom, subscriptions. 100,000 members negotiating as one entity through an AI broker is massive leverage. The savings alone could dwarf the membership fee.
+
+### Autonomous Digital Businesses
+
+AI agents that manage cooperative-owned digital businesses — apps, marketplaces, content, SaaS products — where the "founder" is the collective and the "employees" are autonomous agents.
 
 Key insight: Each AI tool is built on the cooperative's own infrastructure. Data never leaves. Models improve because members use them. This is a flywheel that a US company cannot replicate for the Finnish market.
 
